@@ -1,7 +1,7 @@
 
 ---
 
-# Interactice Dashboard store analysis
+# Interactice Dashboard for Store Sales Analysis
 
 ## Overview
 
