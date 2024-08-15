@@ -1,7 +1,7 @@
 
 ---
 
-# Superstore Analysis
+# Interactice Dashboard store analysis
 
 ## Overview
 
